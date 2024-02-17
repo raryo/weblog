@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 夜は長く心地よい</title>
-    <link>https://example.org/posts/</link>
+    <link>https://raryo.github.io/weblog/posts/</link>
     <description>Recent content in Posts on 夜は長く心地よい</description>
     <image>
       <title>夜は長く心地よい</title>
-      <url>https://example.org/images/mejiro.jpeg</url>
-      <link>https://example.org/images/mejiro.jpeg</link>
+      <url>https://raryo.github.io/weblog/images/mejiro.jpeg</url>
+      <link>https://raryo.github.io/weblog/images/mejiro.jpeg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 17 Feb 2024 21:31:45 +0900</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raryo.github.io/weblog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>https://raryo.github.io/weblog/posts/my-first-post/</link>
       <pubDate>Sat, 17 Feb 2024 21:31:45 +0900</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>https://raryo.github.io/weblog/posts/my-first-post/</guid>
       <description>私は raryo</description>
     </item>
   </channel>
